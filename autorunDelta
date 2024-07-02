@@ -1,0 +1,49 @@
+#!/bin/bash
+
+# Define os tempos de delta para as variáveis do planejador
+delta_execution=(1.0 2.0 3.0)
+delta_heuristic=(1.0 2.0 3.0)
+delta_planning=(1.0 2.0 3.0)
+delta_validation=(1 2 3)
+
+# Define o diretório base onde suas pastas estão localizadas
+base_dir="/home/guipeeix/unb/pddl/icaps2021/dummy"
+
+# Arquivo de problema fixo
+problem_file="/path/to/your/base/directory/problem.pddl"
+
+# Loop através de todos os subdiretórios (assumidos para conter arquivos .pddl)
+for folder in "$base_dir"/*/; do
+    if [ -d "$folder" ]; then
+        echo "Processing folder: $folder"
+
+        # Loop através das combinações de tempos
+        for de in "${delta_execution[@]}"; do
+            for dh in "${delta_heuristic[@]}"; do
+                for dp in "${delta_planning[@]}"; do
+                    for dv in "${delta_validation[@]}"; do
+                        echo "with deltas -de $de -dh $dh -dp $dp -dv $dv"
+                        
+                        # Comando para executar ENHSP com os argumentos de delta
+                        time java -jar ./ENHSP-Public/enhsp-dist/enhsp.jar \
+                            -o "$folder/domain.pddl" \
+                            -f "$folder/problem.pddl" \
+                            -de "$de" \
+                            -dh "$dh" \
+                            -dp "$dp" \
+                            -dv "$dv" &> outDelta.txt
+
+                        echo "----------------------------------------"
+                    done
+                done
+            done
+        done
+
+        echo "Completed processing folder: $folder"
+        echo
+    else
+        echo "No folders found in $base_dir"
+        exit 1
+    fi
+done
+

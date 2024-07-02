@@ -1,0 +1,43 @@
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 79
+Aibr Preprocessing
+|F|:193
+|X|:45
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:57
+|P|:41
+|E|:198
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:2
+H1 Setup Time (msec): 13
+ g(n)= 1.0 h(n)=1018.0
+ g(n)= 2.0 h(n)=925.0
+ g(n)= 3.0 h(n)=832.0
+ g(n)= 4.0 h(n)=739.0
+ g(n)= 5.0 h(n)=605.0
+ g(n)= 6.0 h(n)=553.0
+ g(n)= 7.0 h(n)=501.0
+ g(n)= 8.0 h(n)=416.0
+ g(n)= 9.0 h(n)=391.0
+ g(n)= 10.0 h(n)=366.0
+ g(n)= 11.0 h(n)=341.0
+ g(n)= 12.0 h(n)=316.0
+ g(n)= 13.0 h(n)=291.0
+ g(n)= 14.0 h(n)=260.0
+ g(n)= 15.0 h(n)=241.0
+ g(n)= 16.0 h(n)=214.0
+ g(n)= 32.0 h(n)=210.0
+ g(n)= 33.0 h(n)=207.0
+ g(n)= 34.0 h(n)=206.0
+ g(n)= 35.0 h(n)=205.0
+ g(n)= 36.0 h(n)=204.0
+ g(n)= 37.0 h(n)=203.0
+ g(n)= 38.0 h(n)=201.0
+ g(n)= 39.0 h(n)=200.0
+-------------Time: 10s ; Expanded Nodes: 21940 (Avg-Speed 2194.0 n/s); Evaluated States: 131521
+-------------Time: 20s ; Expanded Nodes: 45128 (Avg-Speed 2256.0 n/s); Evaluated States: 270649
