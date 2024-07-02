@@ -31,7 +31,7 @@ for folder in "$base_dir"/*/; do
                             -de "$de" \
                             -dh "$dh" \
                             -dp "$dp" \
-                            -dv "$dv" &> outDelta.txt
+                            -dv "$dv" &>> outDelta.txt
 
                         echo "----------------------------------------"
                     done

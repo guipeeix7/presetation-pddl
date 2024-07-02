@@ -14,7 +14,7 @@ for folder in "$base_dir"/*/; do
         # Loop through each planner
         for planner in "${planners[@]}"; do
             echo "Running ENHSP for planner: $planner"
-            time java -jar ./ENHSP-Public/enhsp-dist/enhsp.jar -o "$folder/domain.pddl" -f "$folder/problem.pddl" -h "$planner" &> outAll
+            time java -jar ./ENHSP-Public/enhsp-dist/enhsp.jar -o "$folder/domain.pddl" -f "$folder/problem.pddl" -h "$planner" &>> outAll
             # Add any additional flags or options as needed
             
             echo "----------------------------------------"

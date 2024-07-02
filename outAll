@@ -1,0 +1,3038 @@
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 25
+Aibr Preprocessing
+|F|:64
+|X|:11
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:15
+|P|:9
+|E|:45
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_entersStation_IW3)
+5.0: -----waiting---- [10.0]
+10.0: (T1_beginStop_IW3_S_III)
+10.0: -----waiting---- [11.0]
+11.0: (T1_trainEndsVoy_IW3_S_III)
+
+Plan-Length:24
+Elapsed Time: 11.0
+Metric (Search):14.0
+Planning Time (msec): 10
+Heuristic Time (msec): 0
+Search Time (msec): 7
+Expanded Nodes:23
+States Evaluated:36
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 23
+Aibr Preprocessing
+|F|:64
+|X|:11
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:15
+|P|:9
+|E|:45
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_entersStation_IW3)
+5.0: -----waiting---- [10.0]
+10.0: (T1_beginStop_IW3_S_III)
+10.0: -----waiting---- [11.0]
+11.0: (T1_trainEndsVoy_IW3_S_III)
+
+Plan-Length:24
+Elapsed Time: 11.0
+Metric (Search):14.0
+Planning Time (msec): 11
+Heuristic Time (msec): 0
+Search Time (msec): 8
+Expanded Nodes:23
+States Evaluated:36
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 25
+Aibr Preprocessing
+|F|:64
+|X|:11
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:15
+|P|:9
+|E|:45
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_entersStation_IW3)
+5.0: -----waiting---- [10.0]
+10.0: (T1_beginStop_IW3_S_III)
+10.0: -----waiting---- [11.0]
+11.0: (T1_trainEndsVoy_IW3_S_III)
+
+Plan-Length:24
+Elapsed Time: 11.0
+Metric (Search):14.0
+Planning Time (msec): 10
+Heuristic Time (msec): 0
+Search Time (msec): 7
+Expanded Nodes:23
+States Evaluated:36
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 23
+Aibr Preprocessing
+|F|:64
+|X|:11
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:15
+|P|:9
+|E|:45
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_entersStation_IW3)
+5.0: -----waiting---- [10.0]
+10.0: (T1_beginStop_IW3_S_III)
+10.0: -----waiting---- [11.0]
+11.0: (T1_trainEndsVoy_IW3_S_III)
+
+Plan-Length:24
+Elapsed Time: 11.0
+Metric (Search):14.0
+Planning Time (msec): 10
+Heuristic Time (msec): 0
+Search Time (msec): 7
+Expanded Nodes:23
+States Evaluated:36
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 23
+Aibr Preprocessing
+|F|:64
+|X|:11
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:15
+|P|:9
+|E|:45
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_entersStation_IW3)
+5.0: -----waiting---- [10.0]
+10.0: (T1_beginStop_IW3_S_III)
+10.0: -----waiting---- [11.0]
+11.0: (T1_trainEndsVoy_IW3_S_III)
+
+Plan-Length:24
+Elapsed Time: 11.0
+Metric (Search):14.0
+Planning Time (msec): 10
+Heuristic Time (msec): 0
+Search Time (msec): 7
+Expanded Nodes:23
+States Evaluated:36
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 23
+Aibr Preprocessing
+|F|:64
+|X|:11
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:15
+|P|:9
+|E|:45
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_entersStation_IW3)
+5.0: -----waiting---- [10.0]
+10.0: (T1_beginStop_IW3_S_III)
+10.0: -----waiting---- [11.0]
+11.0: (T1_trainEndsVoy_IW3_S_III)
+
+Plan-Length:24
+Elapsed Time: 11.0
+Metric (Search):14.0
+Planning Time (msec): 12
+Heuristic Time (msec): 0
+Search Time (msec): 8
+Expanded Nodes:23
+States Evaluated:36
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 25
+Aibr Preprocessing
+|F|:64
+|X|:11
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:15
+|P|:9
+|E|:45
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_entersStation_IW3)
+5.0: -----waiting---- [10.0]
+10.0: (T1_beginStop_IW3_S_III)
+10.0: -----waiting---- [11.0]
+11.0: (T1_trainEndsVoy_IW3_S_III)
+
+Plan-Length:24
+Elapsed Time: 11.0
+Metric (Search):14.0
+Planning Time (msec): 11
+Heuristic Time (msec): 0
+Search Time (msec): 7
+Expanded Nodes:23
+States Evaluated:36
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 24
+Aibr Preprocessing
+|F|:64
+|X|:11
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:15
+|P|:9
+|E|:45
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_entersStation_IW3)
+5.0: -----waiting---- [10.0]
+10.0: (T1_beginStop_IW3_S_III)
+10.0: -----waiting---- [11.0]
+11.0: (T1_trainEndsVoy_IW3_S_III)
+
+Plan-Length:24
+Elapsed Time: 11.0
+Metric (Search):14.0
+Planning Time (msec): 10
+Heuristic Time (msec): 0
+Search Time (msec): 6
+Expanded Nodes:23
+States Evaluated:36
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 23
+Aibr Preprocessing
+|F|:64
+|X|:11
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:15
+|P|:9
+|E|:45
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_entersStation_IW3)
+5.0: -----waiting---- [10.0]
+10.0: (T1_beginStop_IW3_S_III)
+10.0: -----waiting---- [11.0]
+11.0: (T1_trainEndsVoy_IW3_S_III)
+
+Plan-Length:24
+Elapsed Time: 11.0
+Metric (Search):14.0
+Planning Time (msec): 11
+Heuristic Time (msec): 0
+Search Time (msec): 7
+Expanded Nodes:23
+States Evaluated:36
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 23
+Aibr Preprocessing
+|F|:64
+|X|:11
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:15
+|P|:9
+|E|:45
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_entersStation_IW3)
+5.0: -----waiting---- [10.0]
+10.0: (T1_beginStop_IW3_S_III)
+10.0: -----waiting---- [11.0]
+11.0: (T1_trainEndsVoy_IW3_S_III)
+
+Plan-Length:24
+Elapsed Time: 11.0
+Metric (Search):14.0
+Planning Time (msec): 11
+Heuristic Time (msec): 0
+Search Time (msec): 7
+Expanded Nodes:23
+States Evaluated:36
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 24
+Aibr Preprocessing
+|F|:64
+|X|:11
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:15
+|P|:9
+|E|:45
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_entersStation_IW3)
+5.0: -----waiting---- [10.0]
+10.0: (T1_beginStop_IW3_S_III)
+10.0: -----waiting---- [11.0]
+11.0: (T1_trainEndsVoy_IW3_S_III)
+
+Plan-Length:24
+Elapsed Time: 11.0
+Metric (Search):14.0
+Planning Time (msec): 11
+Heuristic Time (msec): 0
+Search Time (msec): 8
+Expanded Nodes:23
+States Evaluated:36
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 32
+Aibr Preprocessing
+|F|:79
+|X|:20
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:15
+|P|:18
+|E|:69
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_entersStation_IW3)
+5.0: -----waiting---- [10.0]
+10.0: (T1_overlaps_IW3_I3E)
+10.0: -----waiting---- [15.0]
+15.0: (T1_exitsStation_I3E)
+
+Plan-Length:33
+Elapsed Time: 15.0
+Metric (Search):18.0
+Planning Time (msec): 13
+Heuristic Time (msec): 1
+Search Time (msec): 9
+Expanded Nodes:31
+States Evaluated:44
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 33
+Aibr Preprocessing
+|F|:79
+|X|:20
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:15
+|P|:18
+|E|:69
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_entersStation_IW3)
+5.0: -----waiting---- [10.0]
+10.0: (T1_overlaps_IW3_I3E)
+10.0: -----waiting---- [15.0]
+15.0: (T1_exitsStation_I3E)
+
+Plan-Length:33
+Elapsed Time: 15.0
+Metric (Search):18.0
+Planning Time (msec): 14
+Heuristic Time (msec): 0
+Search Time (msec): 9
+Expanded Nodes:31
+States Evaluated:44
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 34
+Aibr Preprocessing
+|F|:79
+|X|:20
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:15
+|P|:18
+|E|:69
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_entersStation_IW3)
+5.0: -----waiting---- [10.0]
+10.0: (T1_overlaps_IW3_I3E)
+10.0: -----waiting---- [15.0]
+15.0: (T1_exitsStation_I3E)
+
+Plan-Length:33
+Elapsed Time: 15.0
+Metric (Search):18.0
+Planning Time (msec): 14
+Heuristic Time (msec): 0
+Search Time (msec): 10
+Expanded Nodes:31
+States Evaluated:44
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 32
+Aibr Preprocessing
+|F|:79
+|X|:20
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:15
+|P|:18
+|E|:69
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_entersStation_IW3)
+5.0: -----waiting---- [10.0]
+10.0: (T1_overlaps_IW3_I3E)
+10.0: -----waiting---- [15.0]
+15.0: (T1_exitsStation_I3E)
+
+Plan-Length:33
+Elapsed Time: 15.0
+Metric (Search):18.0
+Planning Time (msec): 12
+Heuristic Time (msec): 0
+Search Time (msec): 8
+Expanded Nodes:31
+States Evaluated:44
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 30
+Aibr Preprocessing
+|F|:79
+|X|:20
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:15
+|P|:18
+|E|:69
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_entersStation_IW3)
+5.0: -----waiting---- [10.0]
+10.0: (T1_overlaps_IW3_I3E)
+10.0: -----waiting---- [15.0]
+15.0: (T1_exitsStation_I3E)
+
+Plan-Length:33
+Elapsed Time: 15.0
+Metric (Search):18.0
+Planning Time (msec): 12
+Heuristic Time (msec): 0
+Search Time (msec): 9
+Expanded Nodes:31
+States Evaluated:44
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 38
+Aibr Preprocessing
+|F|:79
+|X|:20
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:15
+|P|:18
+|E|:69
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_entersStation_IW3)
+5.0: -----waiting---- [10.0]
+10.0: (T1_overlaps_IW3_I3E)
+10.0: -----waiting---- [15.0]
+15.0: (T1_exitsStation_I3E)
+
+Plan-Length:33
+Elapsed Time: 15.0
+Metric (Search):18.0
+Planning Time (msec): 12
+Heuristic Time (msec): 0
+Search Time (msec): 8
+Expanded Nodes:31
+States Evaluated:44
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 32
+Aibr Preprocessing
+|F|:79
+|X|:20
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:15
+|P|:18
+|E|:69
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_entersStation_IW3)
+5.0: -----waiting---- [10.0]
+10.0: (T1_overlaps_IW3_I3E)
+10.0: -----waiting---- [15.0]
+15.0: (T1_exitsStation_I3E)
+
+Plan-Length:33
+Elapsed Time: 15.0
+Metric (Search):18.0
+Planning Time (msec): 13
+Heuristic Time (msec): 0
+Search Time (msec): 9
+Expanded Nodes:31
+States Evaluated:44
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 32
+Aibr Preprocessing
+|F|:79
+|X|:20
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:15
+|P|:18
+|E|:69
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_entersStation_IW3)
+5.0: -----waiting---- [10.0]
+10.0: (T1_overlaps_IW3_I3E)
+10.0: -----waiting---- [15.0]
+15.0: (T1_exitsStation_I3E)
+
+Plan-Length:33
+Elapsed Time: 15.0
+Metric (Search):18.0
+Planning Time (msec): 12
+Heuristic Time (msec): 0
+Search Time (msec): 8
+Expanded Nodes:31
+States Evaluated:44
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 31
+Aibr Preprocessing
+|F|:79
+|X|:20
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:15
+|P|:18
+|E|:69
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_entersStation_IW3)
+5.0: -----waiting---- [10.0]
+10.0: (T1_overlaps_IW3_I3E)
+10.0: -----waiting---- [15.0]
+15.0: (T1_exitsStation_I3E)
+
+Plan-Length:33
+Elapsed Time: 15.0
+Metric (Search):18.0
+Planning Time (msec): 13
+Heuristic Time (msec): 0
+Search Time (msec): 9
+Expanded Nodes:31
+States Evaluated:44
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 32
+Aibr Preprocessing
+|F|:79
+|X|:20
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:15
+|P|:18
+|E|:69
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_entersStation_IW3)
+5.0: -----waiting---- [10.0]
+10.0: (T1_overlaps_IW3_I3E)
+10.0: -----waiting---- [15.0]
+15.0: (T1_exitsStation_I3E)
+
+Plan-Length:33
+Elapsed Time: 15.0
+Metric (Search):18.0
+Planning Time (msec): 14
+Heuristic Time (msec): 0
+Search Time (msec): 9
+Expanded Nodes:31
+States Evaluated:44
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 30
+Aibr Preprocessing
+|F|:79
+|X|:20
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:15
+|P|:18
+|E|:69
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_entersStation_IW3)
+5.0: -----waiting---- [10.0]
+10.0: (T1_overlaps_IW3_I3E)
+10.0: -----waiting---- [15.0]
+15.0: (T1_exitsStation_I3E)
+
+Plan-Length:33
+Elapsed Time: 15.0
+Metric (Search):18.0
+Planning Time (msec): 13
+Heuristic Time (msec): 0
+Search Time (msec): 9
+Expanded Nodes:31
+States Evaluated:44
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 13
+Aibr Preprocessing
+|F|:19
+|X|:3
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:2
+|P|:4
+|E|:6
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_beginsVoy_S_III_I3E)
+5.0: -----waiting---- [10.0]
+10.0: (T1_exitsStation_I3E)
+
+Plan-Length:18
+Elapsed Time: 10.0
+Metric (Search):12.0
+Planning Time (msec): 8
+Heuristic Time (msec): 0
+Search Time (msec): 5
+Expanded Nodes:19
+States Evaluated:22
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 12
+Aibr Preprocessing
+|F|:19
+|X|:3
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:2
+|P|:4
+|E|:6
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_beginsVoy_S_III_I3E)
+5.0: -----waiting---- [10.0]
+10.0: (T1_exitsStation_I3E)
+
+Plan-Length:18
+Elapsed Time: 10.0
+Metric (Search):12.0
+Planning Time (msec): 8
+Heuristic Time (msec): 0
+Search Time (msec): 5
+Expanded Nodes:19
+States Evaluated:22
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 12
+Aibr Preprocessing
+|F|:19
+|X|:3
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:2
+|P|:4
+|E|:6
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_beginsVoy_S_III_I3E)
+5.0: -----waiting---- [10.0]
+10.0: (T1_exitsStation_I3E)
+
+Plan-Length:18
+Elapsed Time: 10.0
+Metric (Search):12.0
+Planning Time (msec): 7
+Heuristic Time (msec): 0
+Search Time (msec): 5
+Expanded Nodes:19
+States Evaluated:22
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 12
+Aibr Preprocessing
+|F|:19
+|X|:3
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:2
+|P|:4
+|E|:6
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_beginsVoy_S_III_I3E)
+5.0: -----waiting---- [10.0]
+10.0: (T1_exitsStation_I3E)
+
+Plan-Length:18
+Elapsed Time: 10.0
+Metric (Search):12.0
+Planning Time (msec): 8
+Heuristic Time (msec): 0
+Search Time (msec): 5
+Expanded Nodes:19
+States Evaluated:22
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 12
+Aibr Preprocessing
+|F|:19
+|X|:3
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:2
+|P|:4
+|E|:6
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_beginsVoy_S_III_I3E)
+5.0: -----waiting---- [10.0]
+10.0: (T1_exitsStation_I3E)
+
+Plan-Length:18
+Elapsed Time: 10.0
+Metric (Search):12.0
+Planning Time (msec): 9
+Heuristic Time (msec): 0
+Search Time (msec): 5
+Expanded Nodes:19
+States Evaluated:22
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 13
+Aibr Preprocessing
+|F|:19
+|X|:3
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:2
+|P|:4
+|E|:6
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_beginsVoy_S_III_I3E)
+5.0: -----waiting---- [10.0]
+10.0: (T1_exitsStation_I3E)
+
+Plan-Length:18
+Elapsed Time: 10.0
+Metric (Search):12.0
+Planning Time (msec): 8
+Heuristic Time (msec): 0
+Search Time (msec): 6
+Expanded Nodes:19
+States Evaluated:22
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 11
+Aibr Preprocessing
+|F|:19
+|X|:3
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:2
+|P|:4
+|E|:6
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_beginsVoy_S_III_I3E)
+5.0: -----waiting---- [10.0]
+10.0: (T1_exitsStation_I3E)
+
+Plan-Length:18
+Elapsed Time: 10.0
+Metric (Search):12.0
+Planning Time (msec): 10
+Heuristic Time (msec): 0
+Search Time (msec): 6
+Expanded Nodes:19
+States Evaluated:22
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 12
+Aibr Preprocessing
+|F|:19
+|X|:3
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:2
+|P|:4
+|E|:6
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_beginsVoy_S_III_I3E)
+5.0: -----waiting---- [10.0]
+10.0: (T1_exitsStation_I3E)
+
+Plan-Length:18
+Elapsed Time: 10.0
+Metric (Search):12.0
+Planning Time (msec): 11
+Heuristic Time (msec): 0
+Search Time (msec): 7
+Expanded Nodes:19
+States Evaluated:22
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 13
+Aibr Preprocessing
+|F|:19
+|X|:3
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:2
+|P|:4
+|E|:6
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_beginsVoy_S_III_I3E)
+5.0: -----waiting---- [10.0]
+10.0: (T1_exitsStation_I3E)
+
+Plan-Length:18
+Elapsed Time: 10.0
+Metric (Search):12.0
+Planning Time (msec): 8
+Heuristic Time (msec): 0
+Search Time (msec): 6
+Expanded Nodes:19
+States Evaluated:22
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 12
+Aibr Preprocessing
+|F|:19
+|X|:3
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:2
+|P|:4
+|E|:6
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_beginsVoy_S_III_I3E)
+5.0: -----waiting---- [10.0]
+10.0: (T1_exitsStation_I3E)
+
+Plan-Length:18
+Elapsed Time: 10.0
+Metric (Search):12.0
+Planning Time (msec): 8
+Heuristic Time (msec): 0
+Search Time (msec): 4
+Expanded Nodes:19
+States Evaluated:22
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 12
+Aibr Preprocessing
+|F|:19
+|X|:3
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:2
+|P|:4
+|E|:6
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [5.0]
+5.0: (T1_beginsVoy_S_III_I3E)
+5.0: -----waiting---- [10.0]
+10.0: (T1_exitsStation_I3E)
+
+Plan-Length:18
+Elapsed Time: 10.0
+Metric (Search):12.0
+Planning Time (msec): 7
+Heuristic Time (msec): 0
+Search Time (msec): 4
+Expanded Nodes:19
+States Evaluated:22
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 35
+Aibr Preprocessing
+|F|:96
+|X|:21
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:20
+|P|:19
+|E|:74
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 2024958 (Avg-Speed 202495.0 n/s); Evaluated States: 2024974
+-------------Time: 20s ; Expanded Nodes: 3982917 (Avg-Speed 199145.0 n/s); Evaluated States: 3982933
+-------------Time: 30s ; Expanded Nodes: 4888838 (Avg-Speed 162961.0 n/s); Evaluated States: 4888854
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.clone(PDDLState.java:116)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.clone(PDDLState.java:39)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1647)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1642)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.intelligentSimulation(PDDLProblem.java:1638)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem$stateIterator.hasNext(PDDLProblem.java:1438)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:127)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 37
+Aibr Preprocessing
+|F|:96
+|X|:21
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:20
+|P|:19
+|E|:74
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 2030459 (Avg-Speed 203045.0 n/s); Evaluated States: 2030475
+-------------Time: 20s ; Expanded Nodes: 4004197 (Avg-Speed 200209.0 n/s); Evaluated States: 4004213
+-------------Time: 30s ; Expanded Nodes: 4887691 (Avg-Speed 162923.0 n/s); Evaluated States: 4887707
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.ArrayList.iterator(ArrayList.java:947)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.applyAllEvents(PDDLProblem.java:1724)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1659)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1642)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.intelligentSimulation(PDDLProblem.java:1638)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem$stateIterator.hasNext(PDDLProblem.java:1438)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:127)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 35
+Aibr Preprocessing
+|F|:96
+|X|:21
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:20
+|P|:19
+|E|:74
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 2007775 (Avg-Speed 200777.0 n/s); Evaluated States: 2007791
+-------------Time: 20s ; Expanded Nodes: 4032752 (Avg-Speed 201637.0 n/s); Evaluated States: 4032768
+-------------Time: 30s ; Expanded Nodes: 4887520 (Avg-Speed 162917.0 n/s); Evaluated States: 4887536
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.clone(PDDLState.java:116)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.clone(PDDLState.java:39)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1647)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1642)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.intelligentSimulation(PDDLProblem.java:1638)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem$stateIterator.hasNext(PDDLProblem.java:1438)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:127)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 36
+Aibr Preprocessing
+|F|:96
+|X|:21
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:20
+|P|:19
+|E|:74
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 2035503 (Avg-Speed 203550.0 n/s); Evaluated States: 2035519
+-------------Time: 20s ; Expanded Nodes: 4090626 (Avg-Speed 204531.0 n/s); Evaluated States: 4090642
+-------------Time: 30s ; Expanded Nodes: 4887570 (Avg-Speed 162919.0 n/s); Evaluated States: 4887586
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.clone(PDDLState.java:116)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.clone(PDDLState.java:39)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1647)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1642)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.intelligentSimulation(PDDLProblem.java:1638)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem$stateIterator.hasNext(PDDLProblem.java:1438)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:127)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 41
+Aibr Preprocessing
+|F|:96
+|X|:21
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:20
+|P|:19
+|E|:74
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 2089288 (Avg-Speed 208928.0 n/s); Evaluated States: 2089304
+-------------Time: 20s ; Expanded Nodes: 4077655 (Avg-Speed 203882.0 n/s); Evaluated States: 4077671
+-------------Time: 30s ; Expanded Nodes: 4887579 (Avg-Speed 162919.0 n/s); Evaluated States: 4887595
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at com.carrotsearch.hppc.DoubleArrayList.clone(DoubleArrayList.java:435)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.<init>(PDDLState.java:49)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.clone(PDDLState.java:116)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1661)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1642)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.intelligentSimulation(PDDLProblem.java:1638)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem$stateIterator.hasNext(PDDLProblem.java:1438)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:127)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 37
+Aibr Preprocessing
+|F|:96
+|X|:21
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:20
+|P|:19
+|E|:74
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 1962595 (Avg-Speed 196259.0 n/s); Evaluated States: 1962611
+-------------Time: 20s ; Expanded Nodes: 3985491 (Avg-Speed 199274.0 n/s); Evaluated States: 3985507
+-------------Time: 30s ; Expanded Nodes: 4890017 (Avg-Speed 163000.0 n/s); Evaluated States: 4890033
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.ArrayList.iterator(ArrayList.java:947)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.applyAllEvents(PDDLProblem.java:1724)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1659)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1642)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.intelligentSimulation(PDDLProblem.java:1638)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem$stateIterator.hasNext(PDDLProblem.java:1438)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:127)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 40
+Aibr Preprocessing
+|F|:96
+|X|:21
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:20
+|P|:19
+|E|:74
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 1957932 (Avg-Speed 195793.0 n/s); Evaluated States: 1957948
+-------------Time: 20s ; Expanded Nodes: 3957007 (Avg-Speed 197850.0 n/s); Evaluated States: 3957023
+-------------Time: 30s ; Expanded Nodes: 4883958 (Avg-Speed 162798.0 n/s); Evaluated States: 4883974
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at com.carrotsearch.hppc.DoubleArrayList.clone(DoubleArrayList.java:435)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.<init>(PDDLState.java:49)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.clone(PDDLState.java:116)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1661)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1642)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.intelligentSimulation(PDDLProblem.java:1638)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem$stateIterator.hasNext(PDDLProblem.java:1438)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:127)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 35
+Aibr Preprocessing
+|F|:96
+|X|:21
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:20
+|P|:19
+|E|:74
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 2026911 (Avg-Speed 202691.0 n/s); Evaluated States: 2026927
+-------------Time: 20s ; Expanded Nodes: 4030210 (Avg-Speed 201510.0 n/s); Evaluated States: 4030226
+-------------Time: 30s ; Expanded Nodes: 4882988 (Avg-Speed 162766.0 n/s); Evaluated States: 4883004
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.clone(PDDLState.java:116)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.clone(PDDLState.java:39)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1647)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1642)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.intelligentSimulation(PDDLProblem.java:1638)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem$stateIterator.hasNext(PDDLProblem.java:1438)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:127)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 41
+Aibr Preprocessing
+|F|:96
+|X|:21
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:20
+|P|:19
+|E|:74
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 2055975 (Avg-Speed 205597.0 n/s); Evaluated States: 2055991
+-------------Time: 20s ; Expanded Nodes: 4090818 (Avg-Speed 204540.0 n/s); Evaluated States: 4090834
+-------------Time: 30s ; Expanded Nodes: 4885696 (Avg-Speed 162856.0 n/s); Evaluated States: 4885712
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.ArrayList.iterator(ArrayList.java:947)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.applyAllEvents(PDDLProblem.java:1724)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1659)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1642)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.intelligentSimulation(PDDLProblem.java:1638)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem$stateIterator.hasNext(PDDLProblem.java:1438)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:127)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 43
+Aibr Preprocessing
+|F|:96
+|X|:21
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:20
+|P|:19
+|E|:74
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 2040982 (Avg-Speed 204098.0 n/s); Evaluated States: 2040998
+-------------Time: 20s ; Expanded Nodes: 4053161 (Avg-Speed 202658.0 n/s); Evaluated States: 4053177
+-------------Time: 30s ; Expanded Nodes: 4888058 (Avg-Speed 162935.0 n/s); Evaluated States: 4888074
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.clone(PDDLState.java:116)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.clone(PDDLState.java:39)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1647)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1642)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.intelligentSimulation(PDDLProblem.java:1638)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem$stateIterator.hasNext(PDDLProblem.java:1438)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:127)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 36
+Aibr Preprocessing
+|F|:96
+|X|:21
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:20
+|P|:19
+|E|:74
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 2013652 (Avg-Speed 201365.0 n/s); Evaluated States: 2013668
+-------------Time: 20s ; Expanded Nodes: 3951787 (Avg-Speed 197589.0 n/s); Evaluated States: 3951803
+-------------Time: 30s ; Expanded Nodes: 4888428 (Avg-Speed 162947.0 n/s); Evaluated States: 4888444
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.math.BigDecimal.valueOf(BigDecimal.java:1295)
+	at java.base/java.math.BigDecimal.add(BigDecimal.java:4994)
+	at java.base/java.math.BigDecimal.add(BigDecimal.java:5001)
+	at java.base/java.math.BigDecimal.add(BigDecimal.java:1383)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1691)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1642)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.intelligentSimulation(PDDLProblem.java:1638)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem$stateIterator.hasNext(PDDLProblem.java:1438)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:127)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 64
+Aibr Preprocessing
+|F|:158
+|X|:41
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:40
+|P|:37
+|E|:148
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 1037750 (Avg-Speed 103775.0 n/s); Evaluated States: 1037783
+-------------Time: 20s ; Expanded Nodes: 2097753 (Avg-Speed 104887.0 n/s); Evaluated States: 2097786
+-------------Time: 30s ; Expanded Nodes: 3145696 (Avg-Speed 104856.0 n/s); Evaluated States: 3145729
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.BitSet.clone(BitSet.java:1103)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.<init>(PDDLState.java:50)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.clone(PDDLState.java:116)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1661)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1642)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.intelligentSimulation(PDDLProblem.java:1638)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem$stateIterator.hasNext(PDDLProblem.java:1438)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:127)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 69
+Aibr Preprocessing
+|F|:158
+|X|:41
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:40
+|P|:37
+|E|:148
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 1013658 (Avg-Speed 101365.0 n/s); Evaluated States: 1013691
+-------------Time: 20s ; Expanded Nodes: 2064906 (Avg-Speed 103245.0 n/s); Evaluated States: 2064939
+-------------Time: 30s ; Expanded Nodes: 3117790 (Avg-Speed 103926.0 n/s); Evaluated States: 3117823
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at com.carrotsearch.hppc.DoubleArrayList.clone(DoubleArrayList.java:435)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.<init>(PDDLState.java:49)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.clone(PDDLState.java:116)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1661)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1642)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.intelligentSimulation(PDDLProblem.java:1638)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem$stateIterator.hasNext(PDDLProblem.java:1438)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:127)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 59
+Aibr Preprocessing
+|F|:158
+|X|:41
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:40
+|P|:37
+|E|:148
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 1011754 (Avg-Speed 101175.0 n/s); Evaluated States: 1011787
+-------------Time: 20s ; Expanded Nodes: 2035611 (Avg-Speed 101780.0 n/s); Evaluated States: 2035644
+-------------Time: 30s ; Expanded Nodes: 3065589 (Avg-Speed 102186.0 n/s); Evaluated States: 3065622
+-------------Time: 40s ; Expanded Nodes: 3369792 (Avg-Speed 84244.0 n/s); Evaluated States: 3369825
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.BitSet.clone(BitSet.java:1103)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.<init>(PDDLState.java:50)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.clone(PDDLState.java:116)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1661)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1642)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.intelligentSimulation(PDDLProblem.java:1638)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem$stateIterator.hasNext(PDDLProblem.java:1438)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:127)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 62
+Aibr Preprocessing
+|F|:158
+|X|:41
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:40
+|P|:37
+|E|:148
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 1023509 (Avg-Speed 102350.0 n/s); Evaluated States: 1023542
+-------------Time: 20s ; Expanded Nodes: 2097760 (Avg-Speed 104888.0 n/s); Evaluated States: 2097793
+-------------Time: 30s ; Expanded Nodes: 3145696 (Avg-Speed 104856.0 n/s); Evaluated States: 3145729
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.BitSet.clone(BitSet.java:1103)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.<init>(PDDLState.java:50)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.clone(PDDLState.java:116)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1661)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1642)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.intelligentSimulation(PDDLProblem.java:1638)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem$stateIterator.hasNext(PDDLProblem.java:1438)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:127)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 66
+Aibr Preprocessing
+|F|:158
+|X|:41
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:40
+|P|:37
+|E|:148
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 1025809 (Avg-Speed 102580.0 n/s); Evaluated States: 1025842
+-------------Time: 20s ; Expanded Nodes: 2075473 (Avg-Speed 103773.0 n/s); Evaluated States: 2075506
+-------------Time: 30s ; Expanded Nodes: 3109821 (Avg-Speed 103660.0 n/s); Evaluated States: 3109854
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at com.carrotsearch.hppc.DoubleArrayList.clone(DoubleArrayList.java:435)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.<init>(PDDLState.java:49)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.clone(PDDLState.java:116)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1661)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1642)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.intelligentSimulation(PDDLProblem.java:1638)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem$stateIterator.hasNext(PDDLProblem.java:1438)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:127)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 63
+Aibr Preprocessing
+|F|:158
+|X|:41
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:40
+|P|:37
+|E|:148
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 1007161 (Avg-Speed 100716.0 n/s); Evaluated States: 1007194
+-------------Time: 20s ; Expanded Nodes: 2044730 (Avg-Speed 102236.0 n/s); Evaluated States: 2044763
+-------------Time: 30s ; Expanded Nodes: 3063082 (Avg-Speed 102102.0 n/s); Evaluated States: 3063115
+-------------Time: 40s ; Expanded Nodes: 3370544 (Avg-Speed 84263.0 n/s); Evaluated States: 3370577
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.BitSet.clone(BitSet.java:1103)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.<init>(PDDLState.java:50)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.clone(PDDLState.java:116)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1661)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1642)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.intelligentSimulation(PDDLProblem.java:1638)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem$stateIterator.hasNext(PDDLProblem.java:1438)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:127)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 70
+Aibr Preprocessing
+|F|:158
+|X|:41
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:40
+|P|:37
+|E|:148
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 1051444 (Avg-Speed 105144.0 n/s); Evaluated States: 1051477
+-------------Time: 20s ; Expanded Nodes: 2138545 (Avg-Speed 106927.0 n/s); Evaluated States: 2138578
+-------------Time: 30s ; Expanded Nodes: 3145696 (Avg-Speed 104856.0 n/s); Evaluated States: 3145729
+-------------Time: 41s ; Expanded Nodes: 3371342 (Avg-Speed 82227.0 n/s); Evaluated States: 3371375
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.math.BigDecimal.divideToIntegralValue(BigDecimal.java:1882)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1657)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1642)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.intelligentSimulation(PDDLProblem.java:1638)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem$stateIterator.hasNext(PDDLProblem.java:1438)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:127)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 62
+Aibr Preprocessing
+|F|:158
+|X|:41
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:40
+|P|:37
+|E|:148
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 1019083 (Avg-Speed 101908.0 n/s); Evaluated States: 1019116
+-------------Time: 20s ; Expanded Nodes: 2048739 (Avg-Speed 102436.0 n/s); Evaluated States: 2048772
+-------------Time: 30s ; Expanded Nodes: 3104824 (Avg-Speed 103494.0 n/s); Evaluated States: 3104857
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.BitSet.clone(BitSet.java:1103)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.<init>(PDDLState.java:50)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.clone(PDDLState.java:116)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1661)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1642)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.intelligentSimulation(PDDLProblem.java:1638)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem$stateIterator.hasNext(PDDLProblem.java:1438)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:127)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 71
+Aibr Preprocessing
+|F|:158
+|X|:41
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:40
+|P|:37
+|E|:148
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 1045975 (Avg-Speed 104597.0 n/s); Evaluated States: 1046008
+-------------Time: 20s ; Expanded Nodes: 2130390 (Avg-Speed 106519.0 n/s); Evaluated States: 2130423
+-------------Time: 30s ; Expanded Nodes: 3145696 (Avg-Speed 104856.0 n/s); Evaluated States: 3145729
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at com.carrotsearch.hppc.DoubleArrayList.clone(DoubleArrayList.java:435)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.<init>(PDDLState.java:49)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.clone(PDDLState.java:116)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1661)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1642)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.intelligentSimulation(PDDLProblem.java:1638)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem$stateIterator.hasNext(PDDLProblem.java:1438)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:127)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 71
+Aibr Preprocessing
+|F|:158
+|X|:41
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:40
+|P|:37
+|E|:148
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 1047632 (Avg-Speed 104763.0 n/s); Evaluated States: 1047665
+-------------Time: 20s ; Expanded Nodes: 2141194 (Avg-Speed 107059.0 n/s); Evaluated States: 2141227
+-------------Time: 30s ; Expanded Nodes: 3147250 (Avg-Speed 104908.0 n/s); Evaluated States: 3147283
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.BitSet.clone(BitSet.java:1103)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.<init>(PDDLState.java:50)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.clone(PDDLState.java:116)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1661)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1642)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.intelligentSimulation(PDDLProblem.java:1638)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem$stateIterator.hasNext(PDDLProblem.java:1438)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:127)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 63
+Aibr Preprocessing
+|F|:158
+|X|:41
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:40
+|P|:37
+|E|:148
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 1057654 (Avg-Speed 105765.0 n/s); Evaluated States: 1057687
+-------------Time: 20s ; Expanded Nodes: 2129670 (Avg-Speed 106483.0 n/s); Evaluated States: 2129703
+-------------Time: 30s ; Expanded Nodes: 3145696 (Avg-Speed 104856.0 n/s); Evaluated States: 3145729
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.BitSet.clone(BitSet.java:1103)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.<init>(PDDLState.java:50)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLState.clone(PDDLState.java:116)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1661)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.simulation(PDDLProblem.java:1642)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem.intelligentSimulation(PDDLProblem.java:1638)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLProblem$stateIterator.hasNext(PDDLProblem.java:1438)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:127)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 89
+Aibr Preprocessing
+|F|:186
+|X|:44
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:55
+|P|:40
+|E|:193
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [6.0]
+6.0: (T1_entersStation_IW5)
+6.0: -----waiting---- [8.0]
+8.0: (T2_entersStation_IE4)
+8.0: -----waiting---- [11.0]
+11.0: (T1_beginStop_IW5_S_V)
+11.0: -----waiting---- [12.0]
+12.0: (T1_overlaps_IW5_I5E)
+12.0: -----waiting---- [13.0]
+13.0: (T2_beginStop_IE4_S_IV)
+13.0: -----waiting---- [14.0]
+14.0: (T2_overlaps_IE4_I4W)
+14.0: -----waiting---- [15.0]
+15.0: (T3_entersStation_IE4)
+15.0: -----waiting---- [17.0]
+17.0: (T1_exitsStation_I5E)
+17.0: -----waiting---- [19.0]
+19.0: (T2_exitsStation_I4W)
+19.0: -----waiting---- [20.0]
+20.0: (T3_beginStop_IE4_S_IV)
+20.0: -----waiting---- [21.0]
+21.0: (T3_trainEndsVoy_IE4_S_IV)
+
+Plan-Length:74
+Elapsed Time: 21.0
+Metric (Search):32.0
+Planning Time (msec): 21
+Heuristic Time (msec): 0
+Search Time (msec): 17
+Expanded Nodes:58
+States Evaluated:105
+Number of Dead-Ends detected:0
+Number of Duplicates detected:1
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 78
+Aibr Preprocessing
+|F|:186
+|X|:44
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:55
+|P|:40
+|E|:193
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [6.0]
+6.0: (T1_entersStation_IW5)
+6.0: -----waiting---- [8.0]
+8.0: (T2_entersStation_IE4)
+8.0: -----waiting---- [11.0]
+11.0: (T1_beginStop_IW5_S_V)
+11.0: -----waiting---- [12.0]
+12.0: (T1_overlaps_IW5_I5E)
+12.0: -----waiting---- [13.0]
+13.0: (T2_beginStop_IE4_S_IV)
+13.0: -----waiting---- [14.0]
+14.0: (T2_overlaps_IE4_I4W)
+14.0: -----waiting---- [15.0]
+15.0: (T3_entersStation_IE4)
+15.0: -----waiting---- [17.0]
+17.0: (T1_exitsStation_I5E)
+17.0: -----waiting---- [19.0]
+19.0: (T2_exitsStation_I4W)
+19.0: -----waiting---- [20.0]
+20.0: (T3_beginStop_IE4_S_IV)
+20.0: -----waiting---- [21.0]
+21.0: (T3_trainEndsVoy_IE4_S_IV)
+
+Plan-Length:74
+Elapsed Time: 21.0
+Metric (Search):32.0
+Planning Time (msec): 21
+Heuristic Time (msec): 0
+Search Time (msec): 15
+Expanded Nodes:58
+States Evaluated:105
+Number of Dead-Ends detected:0
+Number of Duplicates detected:1
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 104
+Aibr Preprocessing
+|F|:186
+|X|:44
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:55
+|P|:40
+|E|:193
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [6.0]
+6.0: (T1_entersStation_IW5)
+6.0: -----waiting---- [8.0]
+8.0: (T2_entersStation_IE4)
+8.0: -----waiting---- [11.0]
+11.0: (T1_beginStop_IW5_S_V)
+11.0: -----waiting---- [12.0]
+12.0: (T1_overlaps_IW5_I5E)
+12.0: -----waiting---- [13.0]
+13.0: (T2_beginStop_IE4_S_IV)
+13.0: -----waiting---- [14.0]
+14.0: (T2_overlaps_IE4_I4W)
+14.0: -----waiting---- [15.0]
+15.0: (T3_entersStation_IE4)
+15.0: -----waiting---- [17.0]
+17.0: (T1_exitsStation_I5E)
+17.0: -----waiting---- [19.0]
+19.0: (T2_exitsStation_I4W)
+19.0: -----waiting---- [20.0]
+20.0: (T3_beginStop_IE4_S_IV)
+20.0: -----waiting---- [21.0]
+21.0: (T3_trainEndsVoy_IE4_S_IV)
+
+Plan-Length:74
+Elapsed Time: 21.0
+Metric (Search):32.0
+Planning Time (msec): 20
+Heuristic Time (msec): 1
+Search Time (msec): 16
+Expanded Nodes:58
+States Evaluated:105
+Number of Dead-Ends detected:0
+Number of Duplicates detected:1
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 79
+Aibr Preprocessing
+|F|:186
+|X|:44
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:55
+|P|:40
+|E|:193
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [6.0]
+6.0: (T1_entersStation_IW5)
+6.0: -----waiting---- [8.0]
+8.0: (T2_entersStation_IE4)
+8.0: -----waiting---- [11.0]
+11.0: (T1_beginStop_IW5_S_V)
+11.0: -----waiting---- [12.0]
+12.0: (T1_overlaps_IW5_I5E)
+12.0: -----waiting---- [13.0]
+13.0: (T2_beginStop_IE4_S_IV)
+13.0: -----waiting---- [14.0]
+14.0: (T2_overlaps_IE4_I4W)
+14.0: -----waiting---- [15.0]
+15.0: (T3_entersStation_IE4)
+15.0: -----waiting---- [17.0]
+17.0: (T1_exitsStation_I5E)
+17.0: -----waiting---- [19.0]
+19.0: (T2_exitsStation_I4W)
+19.0: -----waiting---- [20.0]
+20.0: (T3_beginStop_IE4_S_IV)
+20.0: -----waiting---- [21.0]
+21.0: (T3_trainEndsVoy_IE4_S_IV)
+
+Plan-Length:74
+Elapsed Time: 21.0
+Metric (Search):32.0
+Planning Time (msec): 21
+Heuristic Time (msec): 0
+Search Time (msec): 16
+Expanded Nodes:58
+States Evaluated:105
+Number of Dead-Ends detected:0
+Number of Duplicates detected:1
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 87
+Aibr Preprocessing
+|F|:186
+|X|:44
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:55
+|P|:40
+|E|:193
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [6.0]
+6.0: (T1_entersStation_IW5)
+6.0: -----waiting---- [8.0]
+8.0: (T2_entersStation_IE4)
+8.0: -----waiting---- [11.0]
+11.0: (T1_beginStop_IW5_S_V)
+11.0: -----waiting---- [12.0]
+12.0: (T1_overlaps_IW5_I5E)
+12.0: -----waiting---- [13.0]
+13.0: (T2_beginStop_IE4_S_IV)
+13.0: -----waiting---- [14.0]
+14.0: (T2_overlaps_IE4_I4W)
+14.0: -----waiting---- [15.0]
+15.0: (T3_entersStation_IE4)
+15.0: -----waiting---- [17.0]
+17.0: (T1_exitsStation_I5E)
+17.0: -----waiting---- [19.0]
+19.0: (T2_exitsStation_I4W)
+19.0: -----waiting---- [20.0]
+20.0: (T3_beginStop_IE4_S_IV)
+20.0: -----waiting---- [21.0]
+21.0: (T3_trainEndsVoy_IE4_S_IV)
+
+Plan-Length:74
+Elapsed Time: 21.0
+Metric (Search):32.0
+Planning Time (msec): 20
+Heuristic Time (msec): 0
+Search Time (msec): 15
+Expanded Nodes:58
+States Evaluated:105
+Number of Dead-Ends detected:0
+Number of Duplicates detected:1
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 90
+Aibr Preprocessing
+|F|:186
+|X|:44
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:55
+|P|:40
+|E|:193
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [6.0]
+6.0: (T1_entersStation_IW5)
+6.0: -----waiting---- [8.0]
+8.0: (T2_entersStation_IE4)
+8.0: -----waiting---- [11.0]
+11.0: (T1_beginStop_IW5_S_V)
+11.0: -----waiting---- [12.0]
+12.0: (T1_overlaps_IW5_I5E)
+12.0: -----waiting---- [13.0]
+13.0: (T2_beginStop_IE4_S_IV)
+13.0: -----waiting---- [14.0]
+14.0: (T2_overlaps_IE4_I4W)
+14.0: -----waiting---- [15.0]
+15.0: (T3_entersStation_IE4)
+15.0: -----waiting---- [17.0]
+17.0: (T1_exitsStation_I5E)
+17.0: -----waiting---- [19.0]
+19.0: (T2_exitsStation_I4W)
+19.0: -----waiting---- [20.0]
+20.0: (T3_beginStop_IE4_S_IV)
+20.0: -----waiting---- [21.0]
+21.0: (T3_trainEndsVoy_IE4_S_IV)
+
+Plan-Length:74
+Elapsed Time: 21.0
+Metric (Search):32.0
+Planning Time (msec): 21
+Heuristic Time (msec): 0
+Search Time (msec): 16
+Expanded Nodes:58
+States Evaluated:105
+Number of Dead-Ends detected:0
+Number of Duplicates detected:1
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 84
+Aibr Preprocessing
+|F|:186
+|X|:44
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:55
+|P|:40
+|E|:193
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [6.0]
+6.0: (T1_entersStation_IW5)
+6.0: -----waiting---- [8.0]
+8.0: (T2_entersStation_IE4)
+8.0: -----waiting---- [11.0]
+11.0: (T1_beginStop_IW5_S_V)
+11.0: -----waiting---- [12.0]
+12.0: (T1_overlaps_IW5_I5E)
+12.0: -----waiting---- [13.0]
+13.0: (T2_beginStop_IE4_S_IV)
+13.0: -----waiting---- [14.0]
+14.0: (T2_overlaps_IE4_I4W)
+14.0: -----waiting---- [15.0]
+15.0: (T3_entersStation_IE4)
+15.0: -----waiting---- [17.0]
+17.0: (T1_exitsStation_I5E)
+17.0: -----waiting---- [19.0]
+19.0: (T2_exitsStation_I4W)
+19.0: -----waiting---- [20.0]
+20.0: (T3_beginStop_IE4_S_IV)
+20.0: -----waiting---- [21.0]
+21.0: (T3_trainEndsVoy_IE4_S_IV)
+
+Plan-Length:74
+Elapsed Time: 21.0
+Metric (Search):32.0
+Planning Time (msec): 21
+Heuristic Time (msec): 0
+Search Time (msec): 18
+Expanded Nodes:58
+States Evaluated:105
+Number of Dead-Ends detected:0
+Number of Duplicates detected:1
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 86
+Aibr Preprocessing
+|F|:186
+|X|:44
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:55
+|P|:40
+|E|:193
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [6.0]
+6.0: (T1_entersStation_IW5)
+6.0: -----waiting---- [8.0]
+8.0: (T2_entersStation_IE4)
+8.0: -----waiting---- [11.0]
+11.0: (T1_beginStop_IW5_S_V)
+11.0: -----waiting---- [12.0]
+12.0: (T1_overlaps_IW5_I5E)
+12.0: -----waiting---- [13.0]
+13.0: (T2_beginStop_IE4_S_IV)
+13.0: -----waiting---- [14.0]
+14.0: (T2_overlaps_IE4_I4W)
+14.0: -----waiting---- [15.0]
+15.0: (T3_entersStation_IE4)
+15.0: -----waiting---- [17.0]
+17.0: (T1_exitsStation_I5E)
+17.0: -----waiting---- [19.0]
+19.0: (T2_exitsStation_I4W)
+19.0: -----waiting---- [20.0]
+20.0: (T3_beginStop_IE4_S_IV)
+20.0: -----waiting---- [21.0]
+21.0: (T3_trainEndsVoy_IE4_S_IV)
+
+Plan-Length:74
+Elapsed Time: 21.0
+Metric (Search):32.0
+Planning Time (msec): 20
+Heuristic Time (msec): 0
+Search Time (msec): 16
+Expanded Nodes:58
+States Evaluated:105
+Number of Dead-Ends detected:0
+Number of Duplicates detected:1
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 88
+Aibr Preprocessing
+|F|:186
+|X|:44
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:55
+|P|:40
+|E|:193
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [6.0]
+6.0: (T1_entersStation_IW5)
+6.0: -----waiting---- [8.0]
+8.0: (T2_entersStation_IE4)
+8.0: -----waiting---- [11.0]
+11.0: (T1_beginStop_IW5_S_V)
+11.0: -----waiting---- [12.0]
+12.0: (T1_overlaps_IW5_I5E)
+12.0: -----waiting---- [13.0]
+13.0: (T2_beginStop_IE4_S_IV)
+13.0: -----waiting---- [14.0]
+14.0: (T2_overlaps_IE4_I4W)
+14.0: -----waiting---- [15.0]
+15.0: (T3_entersStation_IE4)
+15.0: -----waiting---- [17.0]
+17.0: (T1_exitsStation_I5E)
+17.0: -----waiting---- [19.0]
+19.0: (T2_exitsStation_I4W)
+19.0: -----waiting---- [20.0]
+20.0: (T3_beginStop_IE4_S_IV)
+20.0: -----waiting---- [21.0]
+21.0: (T3_trainEndsVoy_IE4_S_IV)
+
+Plan-Length:74
+Elapsed Time: 21.0
+Metric (Search):32.0
+Planning Time (msec): 29
+Heuristic Time (msec): 1
+Search Time (msec): 22
+Expanded Nodes:58
+States Evaluated:105
+Number of Dead-Ends detected:0
+Number of Duplicates detected:1
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 107
+Aibr Preprocessing
+|F|:186
+|X|:44
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:55
+|P|:40
+|E|:193
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [6.0]
+6.0: (T1_entersStation_IW5)
+6.0: -----waiting---- [8.0]
+8.0: (T2_entersStation_IE4)
+8.0: -----waiting---- [11.0]
+11.0: (T1_beginStop_IW5_S_V)
+11.0: -----waiting---- [12.0]
+12.0: (T1_overlaps_IW5_I5E)
+12.0: -----waiting---- [13.0]
+13.0: (T2_beginStop_IE4_S_IV)
+13.0: -----waiting---- [14.0]
+14.0: (T2_overlaps_IE4_I4W)
+14.0: -----waiting---- [15.0]
+15.0: (T3_entersStation_IE4)
+15.0: -----waiting---- [17.0]
+17.0: (T1_exitsStation_I5E)
+17.0: -----waiting---- [19.0]
+19.0: (T2_exitsStation_I4W)
+19.0: -----waiting---- [20.0]
+20.0: (T3_beginStop_IE4_S_IV)
+20.0: -----waiting---- [21.0]
+21.0: (T3_trainEndsVoy_IE4_S_IV)
+
+Plan-Length:74
+Elapsed Time: 21.0
+Metric (Search):32.0
+Planning Time (msec): 20
+Heuristic Time (msec): 0
+Search Time (msec): 15
+Expanded Nodes:58
+States Evaluated:105
+Number of Dead-Ends detected:0
+Number of Duplicates detected:1
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 77
+Aibr Preprocessing
+|F|:186
+|X|:44
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:55
+|P|:40
+|E|:193
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+Extracting plan with execution delta: 1.0
+Problem Solved
+
+Found Plan:
+0: -----waiting---- [6.0]
+6.0: (T1_entersStation_IW5)
+6.0: -----waiting---- [8.0]
+8.0: (T2_entersStation_IE4)
+8.0: -----waiting---- [11.0]
+11.0: (T1_beginStop_IW5_S_V)
+11.0: -----waiting---- [12.0]
+12.0: (T1_overlaps_IW5_I5E)
+12.0: -----waiting---- [13.0]
+13.0: (T2_beginStop_IE4_S_IV)
+13.0: -----waiting---- [14.0]
+14.0: (T2_overlaps_IE4_I4W)
+14.0: -----waiting---- [15.0]
+15.0: (T3_entersStation_IE4)
+15.0: -----waiting---- [17.0]
+17.0: (T1_exitsStation_I5E)
+17.0: -----waiting---- [19.0]
+19.0: (T2_exitsStation_I4W)
+19.0: -----waiting---- [20.0]
+20.0: (T3_beginStop_IE4_S_IV)
+20.0: -----waiting---- [21.0]
+21.0: (T3_trainEndsVoy_IE4_S_IV)
+
+Plan-Length:74
+Elapsed Time: 21.0
+Metric (Search):32.0
+Planning Time (msec): 25
+Heuristic Time (msec): 0
+Search Time (msec): 20
+Expanded Nodes:58
+States Evaluated:105
+Number of Dead-Ends detected:0
+Number of Duplicates detected:1
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 92
+Aibr Preprocessing
+|F|:197
+|X|:44
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:60
+|P|:40
+|E|:222
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 691266 (Avg-Speed 69126.0 n/s); Evaluated States: 691316
+-------------Time: 20s ; Expanded Nodes: 1391626 (Avg-Speed 69581.0 n/s); Evaluated States: 1391676
+-------------Time: 30s ; Expanded Nodes: 2073347 (Avg-Speed 69111.0 n/s); Evaluated States: 2073397
+-------------Time: 40s ; Expanded Nodes: 2771784 (Avg-Speed 69294.0 n/s); Evaluated States: 2771834
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.rehash(Object2FloatOpenHashMap.java:900)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.insert(Object2FloatOpenHashMap.java:212)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.put(Object2FloatOpenHashMap.java:219)
+	at com.hstairs.ppmajal.search.WAStar.queueSuccessor(WAStar.java:61)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:137)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 101
+Aibr Preprocessing
+|F|:197
+|X|:44
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:60
+|P|:40
+|E|:222
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 714793 (Avg-Speed 71479.0 n/s); Evaluated States: 714843
+-------------Time: 20s ; Expanded Nodes: 1442648 (Avg-Speed 72132.0 n/s); Evaluated States: 1442698
+-------------Time: 30s ; Expanded Nodes: 2170910 (Avg-Speed 72363.0 n/s); Evaluated States: 2170960
+-------------Time: 40s ; Expanded Nodes: 2908968 (Avg-Speed 72724.0 n/s); Evaluated States: 2909018
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.rehash(Object2FloatOpenHashMap.java:900)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.insert(Object2FloatOpenHashMap.java:212)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.put(Object2FloatOpenHashMap.java:219)
+	at com.hstairs.ppmajal.search.WAStar.queueSuccessor(WAStar.java:61)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:137)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 105
+Aibr Preprocessing
+|F|:197
+|X|:44
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:60
+|P|:40
+|E|:222
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 690263 (Avg-Speed 69026.0 n/s); Evaluated States: 690313
+-------------Time: 20s ; Expanded Nodes: 1386053 (Avg-Speed 69302.0 n/s); Evaluated States: 1386103
+-------------Time: 30s ; Expanded Nodes: 2086206 (Avg-Speed 69540.0 n/s); Evaluated States: 2086256
+-------------Time: 40s ; Expanded Nodes: 2799434 (Avg-Speed 69985.0 n/s); Evaluated States: 2799484
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.rehash(Object2FloatOpenHashMap.java:900)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.insert(Object2FloatOpenHashMap.java:212)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.put(Object2FloatOpenHashMap.java:219)
+	at com.hstairs.ppmajal.search.WAStar.queueSuccessor(WAStar.java:61)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:137)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 111
+Aibr Preprocessing
+|F|:197
+|X|:44
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:60
+|P|:40
+|E|:222
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 694490 (Avg-Speed 69449.0 n/s); Evaluated States: 694540
+-------------Time: 20s ; Expanded Nodes: 1404280 (Avg-Speed 70214.0 n/s); Evaluated States: 1404330
+-------------Time: 30s ; Expanded Nodes: 2115863 (Avg-Speed 70528.0 n/s); Evaluated States: 2115913
+-------------Time: 40s ; Expanded Nodes: 2830452 (Avg-Speed 70761.0 n/s); Evaluated States: 2830502
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.rehash(Object2FloatOpenHashMap.java:900)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.insert(Object2FloatOpenHashMap.java:212)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.put(Object2FloatOpenHashMap.java:219)
+	at com.hstairs.ppmajal.search.WAStar.queueSuccessor(WAStar.java:61)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:137)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 81
+Aibr Preprocessing
+|F|:197
+|X|:44
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:60
+|P|:40
+|E|:222
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 709642 (Avg-Speed 70964.0 n/s); Evaluated States: 709692
+-------------Time: 20s ; Expanded Nodes: 1434227 (Avg-Speed 71711.0 n/s); Evaluated States: 1434277
+-------------Time: 30s ; Expanded Nodes: 2150123 (Avg-Speed 71670.0 n/s); Evaluated States: 2150173
+-------------Time: 40s ; Expanded Nodes: 2878218 (Avg-Speed 71955.0 n/s); Evaluated States: 2878268
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.rehash(Object2FloatOpenHashMap.java:900)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.insert(Object2FloatOpenHashMap.java:212)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.put(Object2FloatOpenHashMap.java:219)
+	at com.hstairs.ppmajal.search.WAStar.queueSuccessor(WAStar.java:61)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:137)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 85
+Aibr Preprocessing
+|F|:197
+|X|:44
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:60
+|P|:40
+|E|:222
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 692162 (Avg-Speed 69216.0 n/s); Evaluated States: 692212
+-------------Time: 20s ; Expanded Nodes: 1400940 (Avg-Speed 70047.0 n/s); Evaluated States: 1400990
+-------------Time: 30s ; Expanded Nodes: 2105864 (Avg-Speed 70195.0 n/s); Evaluated States: 2105914
+-------------Time: 40s ; Expanded Nodes: 2824773 (Avg-Speed 70619.0 n/s); Evaluated States: 2824823
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.rehash(Object2FloatOpenHashMap.java:900)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.insert(Object2FloatOpenHashMap.java:212)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.put(Object2FloatOpenHashMap.java:219)
+	at com.hstairs.ppmajal.search.WAStar.queueSuccessor(WAStar.java:61)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:137)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 95
+Aibr Preprocessing
+|F|:197
+|X|:44
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:60
+|P|:40
+|E|:222
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 705376 (Avg-Speed 70537.0 n/s); Evaluated States: 705426
+-------------Time: 20s ; Expanded Nodes: 1428758 (Avg-Speed 71437.0 n/s); Evaluated States: 1428808
+-------------Time: 30s ; Expanded Nodes: 2144410 (Avg-Speed 71480.0 n/s); Evaluated States: 2144460
+-------------Time: 40s ; Expanded Nodes: 2872254 (Avg-Speed 71806.0 n/s); Evaluated States: 2872304
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.rehash(Object2FloatOpenHashMap.java:900)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.insert(Object2FloatOpenHashMap.java:212)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.put(Object2FloatOpenHashMap.java:219)
+	at com.hstairs.ppmajal.search.WAStar.queueSuccessor(WAStar.java:61)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:137)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 93
+Aibr Preprocessing
+|F|:197
+|X|:44
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:60
+|P|:40
+|E|:222
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 704298 (Avg-Speed 70429.0 n/s); Evaluated States: 704348
+-------------Time: 20s ; Expanded Nodes: 1427916 (Avg-Speed 71395.0 n/s); Evaluated States: 1427966
+-------------Time: 30s ; Expanded Nodes: 2143320 (Avg-Speed 71444.0 n/s); Evaluated States: 2143370
+-------------Time: 40s ; Expanded Nodes: 2865244 (Avg-Speed 71631.0 n/s); Evaluated States: 2865294
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.rehash(Object2FloatOpenHashMap.java:900)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.insert(Object2FloatOpenHashMap.java:212)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.put(Object2FloatOpenHashMap.java:219)
+	at com.hstairs.ppmajal.search.WAStar.queueSuccessor(WAStar.java:61)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:137)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 94
+Aibr Preprocessing
+|F|:197
+|X|:44
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:60
+|P|:40
+|E|:222
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 701869 (Avg-Speed 70186.0 n/s); Evaluated States: 701919
+-------------Time: 20s ; Expanded Nodes: 1419654 (Avg-Speed 70982.0 n/s); Evaluated States: 1419704
+-------------Time: 30s ; Expanded Nodes: 2140559 (Avg-Speed 71351.0 n/s); Evaluated States: 2140609
+-------------Time: 40s ; Expanded Nodes: 2860737 (Avg-Speed 71518.0 n/s); Evaluated States: 2860787
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.rehash(Object2FloatOpenHashMap.java:900)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.insert(Object2FloatOpenHashMap.java:212)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.put(Object2FloatOpenHashMap.java:219)
+	at com.hstairs.ppmajal.search.WAStar.queueSuccessor(WAStar.java:61)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:137)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 80
+Aibr Preprocessing
+|F|:197
+|X|:44
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:60
+|P|:40
+|E|:222
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 686581 (Avg-Speed 68658.0 n/s); Evaluated States: 686631
+-------------Time: 20s ; Expanded Nodes: 1396201 (Avg-Speed 69810.0 n/s); Evaluated States: 1396251
+-------------Time: 30s ; Expanded Nodes: 2094314 (Avg-Speed 69810.0 n/s); Evaluated States: 2094364
+-------------Time: 40s ; Expanded Nodes: 2812497 (Avg-Speed 70312.0 n/s); Evaluated States: 2812547
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.rehash(Object2FloatOpenHashMap.java:901)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.insert(Object2FloatOpenHashMap.java:212)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.put(Object2FloatOpenHashMap.java:219)
+	at com.hstairs.ppmajal.search.WAStar.queueSuccessor(WAStar.java:61)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:137)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 87
+Aibr Preprocessing
+|F|:197
+|X|:44
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:60
+|P|:40
+|E|:222
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 703822 (Avg-Speed 70382.0 n/s); Evaluated States: 703872
+-------------Time: 20s ; Expanded Nodes: 1421847 (Avg-Speed 71092.0 n/s); Evaluated States: 1421897
+-------------Time: 30s ; Expanded Nodes: 2138000 (Avg-Speed 71266.0 n/s); Evaluated States: 2138050
+-------------Time: 40s ; Expanded Nodes: 2853408 (Avg-Speed 71335.0 n/s); Evaluated States: 2853458
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.rehash(Object2FloatOpenHashMap.java:900)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.insert(Object2FloatOpenHashMap.java:212)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.put(Object2FloatOpenHashMap.java:219)
+	at com.hstairs.ppmajal.search.WAStar.queueSuccessor(WAStar.java:61)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:137)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 90
+Aibr Preprocessing
+|F|:193
+|X|:45
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:57
+|P|:41
+|E|:198
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 717483 (Avg-Speed 71748.0 n/s); Evaluated States: 717528
+-------------Time: 20s ; Expanded Nodes: 1457854 (Avg-Speed 72892.0 n/s); Evaluated States: 1457899
+-------------Time: 30s ; Expanded Nodes: 2173596 (Avg-Speed 72453.0 n/s); Evaluated States: 2173641
+-------------Time: 40s ; Expanded Nodes: 2907001 (Avg-Speed 72675.0 n/s); Evaluated States: 2907046
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.rehash(Object2FloatOpenHashMap.java:900)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.insert(Object2FloatOpenHashMap.java:212)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.put(Object2FloatOpenHashMap.java:219)
+	at com.hstairs.ppmajal.search.WAStar.queueSuccessor(WAStar.java:61)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:137)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 75
+Aibr Preprocessing
+|F|:193
+|X|:45
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:57
+|P|:41
+|E|:198
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 734226 (Avg-Speed 73422.0 n/s); Evaluated States: 734271
+-------------Time: 20s ; Expanded Nodes: 1474802 (Avg-Speed 73740.0 n/s); Evaluated States: 1474847
+-------------Time: 30s ; Expanded Nodes: 2222085 (Avg-Speed 74069.0 n/s); Evaluated States: 2222130
+-------------Time: 40s ; Expanded Nodes: 2967347 (Avg-Speed 74183.0 n/s); Evaluated States: 2967392
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.rehash(Object2FloatOpenHashMap.java:900)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.insert(Object2FloatOpenHashMap.java:212)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.put(Object2FloatOpenHashMap.java:219)
+	at com.hstairs.ppmajal.search.WAStar.queueSuccessor(WAStar.java:61)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:137)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 79
+Aibr Preprocessing
+|F|:193
+|X|:45
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:57
+|P|:41
+|E|:198
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 721852 (Avg-Speed 72185.0 n/s); Evaluated States: 721897
+-------------Time: 20s ; Expanded Nodes: 1463294 (Avg-Speed 73164.0 n/s); Evaluated States: 1463339
+-------------Time: 30s ; Expanded Nodes: 2185977 (Avg-Speed 72865.0 n/s); Evaluated States: 2186022
+-------------Time: 40s ; Expanded Nodes: 2929253 (Avg-Speed 73231.0 n/s); Evaluated States: 2929298
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.rehash(Object2FloatOpenHashMap.java:900)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.insert(Object2FloatOpenHashMap.java:212)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.put(Object2FloatOpenHashMap.java:219)
+	at com.hstairs.ppmajal.search.WAStar.queueSuccessor(WAStar.java:61)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:137)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 84
+Aibr Preprocessing
+|F|:193
+|X|:45
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:57
+|P|:41
+|E|:198
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 745466 (Avg-Speed 74546.0 n/s); Evaluated States: 745511
+-------------Time: 20s ; Expanded Nodes: 1492485 (Avg-Speed 74624.0 n/s); Evaluated States: 1492530
+-------------Time: 30s ; Expanded Nodes: 2244036 (Avg-Speed 74801.0 n/s); Evaluated States: 2244081
+-------------Time: 40s ; Expanded Nodes: 2957393 (Avg-Speed 73934.0 n/s); Evaluated States: 2957438
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.rehash(Object2FloatOpenHashMap.java:900)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.insert(Object2FloatOpenHashMap.java:212)
+	at it.unimi.dsi.fastutil.objects.Object2FloatOpenHashMap.put(Object2FloatOpenHashMap.java:219)
+	at com.hstairs.ppmajal.search.WAStar.queueSuccessor(WAStar.java:61)
+	at com.hstairs.ppmajal.search.WAStar.search(WAStar.java:137)
+	at com.hstairs.ppmajal.PDDLProblem.PDDLPlanner.plan(PDDLPlanner.java:85)
+	at planners.ENHSP.search(ENHSP.java:532)
+	at planners.ENHSP.planning(ENHSP.java:198)
+	at main.main(main.java:31)
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 86
+Aibr Preprocessing
+|F|:193
+|X|:45
+Heuristic Problem Creation
+Aibr Preprocessing
+|A|:57
+|P|:41
+|E|:198
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+Folding back to 1-0 heuristic. Input heuristic is not supported
+-------------Time: 10s ; Expanded Nodes: 712786 (Avg-Speed 71278.0 n/s); Evaluated States: 712831
+-------------Time: 20s ; Expanded Nodes: 1451696 (Avg-Speed 72584.0 n/s); Evaluated States: 1451741
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 88
+Aibr Preprocessing
+|F|:193
+|X|:45
+Heuristic Problem Creation
