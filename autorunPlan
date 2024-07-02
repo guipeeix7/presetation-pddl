@@ -1,0 +1,29 @@
+base_dir="/home/guipeeix/unb/pddl/icaps2021/dummy"
+
+# Array of planners to loop through
+planners=("sat-hmrp" "sat-hmrph" "sat-hmrpff" "sat-hadd" "sat-aibr" "sat-hradd" "opt-hmax" "opt-hlm" "opt-hlmrd" "opt-hrmax" "opt-blind")
+
+# Fixed filename
+problem_file="/path/to/your/base/directory/problem.pddl"
+
+# Loop through all subdirectories (assumed to contain .pddl files)
+for folder in "$base_dir"/*/; do
+    if [ -d "$folder" ]; then
+        echo "Processing folder: $folder"
+        
+        # Loop through each planner
+        for planner in "${planners[@]}"; do
+            #echo "Running ENHSP for planner: $planner"
+            time java -jar ./ENHSP-Public/enhsp-dist/enhsp.jar -o "$folder/domain.pddl" -f "$folder/problem.pddl" -h "$planner" &> outAll
+            # Add any additional flags or options as needed
+            
+            echo "----------------------------------------"
+        done
+        
+        echo "Completed processing folder: $folder"
+        echo
+    else
+        echo "No folders found in $base_dir"
+        exit 1
+    fi
+done

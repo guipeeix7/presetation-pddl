@@ -1,0 +1,27 @@
+#!/bin/bash
+
+# Define the base directory where your folders are located
+base_dir="/home/guipeeix/unb/pddl/icaps2021/dummy"
+
+# Fixed filename
+problem_file="/path/to/your/base/directory/problem.pddl"
+
+# Loop through all subdirectories (assumed to contain .pddl files)
+for folder in "$base_dir"/*/; do
+    if [ -d "$folder" ]; then
+        echo "Processing folder: $folder"
+
+        # Run ENHSP for the fixed problem file in the current folder
+        #/icaps2021/dummy/1enncho "Running ENHSP for file: $problem_file"
+	time java -jar ./ENHSP-Public/enhsp-dist/enhsp.jar -o "$folder/domain.pddl" -f "$folder/problem.pddl" 
+	#&> outTime
+
+	#echo "----------------------------------------"
+
+        #echo "Completed processing folder: $folder"
+        #echo
+    else
+        echo "No folders found in $base_dir"
+        exit 1
+    fi
+done
